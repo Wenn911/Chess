@@ -33,15 +33,15 @@
 }
 
 .black {
-  background-color: deepskyblue;
+  background-color: #974609;
 }
 
 .white {
-  background-color: orange;
+  background-color: #dba254;
 }
 
 .selected {
-  background-color: brown;
+  background-color: #522211;
 }
 
 .available {
